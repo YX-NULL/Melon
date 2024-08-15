@@ -1,3 +1,5 @@
+**特别说明:该库有一定的耦合性,不是单纯的工具库,使用时需要链接动态库来使用,不方便直接移植到项目中使用**
+
 <p align="center"><img width="210" src="https://github.com/Water-Melon/Melon/blob/master/docs/logo.png?raw=true" alt="Melon logo"></p>
 <p align="center"><img src="https://img.shields.io/github/license/Water-Melon/Melang" /></p>
 <h1 align="center">Melon</h1>
